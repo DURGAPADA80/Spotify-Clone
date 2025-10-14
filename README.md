@@ -9,7 +9,7 @@ This project recreates the look and feel of Spotify’s modern music player inte
 
 | 💻 Desktop View | 📱 Mobile View |
 |:--:|:--:|
-| ![Desktop Screenshot](./images/desktop-view.png) | ![Mobile Screenshot](./images/mobile-view.png) |
+| ![Desktop Screenshot](./images/desktop-view.png) | ![Mobile Screenshot](./images/mobile-view-1.png) | | ![Mobile Screenshot](./images/mobile-view-2.png) |
 
 > 📝 *Replace these image paths with your actual file names or GitHub image URLs if needed.*
 
@@ -41,9 +41,11 @@ Spotify-Clone/
 ├── index.html
 ├── style.css
 ├── script.js
+├── ima/
 ├── images/
 │   ├── desktop-view.png
-│   └── mobile-view.png
+│   ├── mobile-view-1.png
+│   └── mobile-view-2.png
 └── songs/
 ```
 
@@ -82,7 +84,8 @@ Spotify-Clone/
 ![Desktop Screenshot](./images/desktop-view.png)
 
 ### 📱 Mobile Preview
-![Mobile Screenshot](./images/mobile-view.png)
+![Mobile Screenshot](./images/mobile-view-1.png)
+![Mobile Screenshot](./images/mobile-view-2.png)
 
 ---
 
@@ -109,8 +112,9 @@ Through this project, I strengthened my skills in:
 ### 🖼️ Example Image Folder Structure
 ```
 images/
-│── desktop-view.png
-└── mobile-view.png
+      │── desktop-view.png
+      ├── mobile-view-1.png
+      └── mobile-view-2.png
 ```
 
 ---
