@@ -7,10 +7,9 @@ This project recreates the look and feel of Spotify’s modern music player inte
 
 ## 🖼️ Project Preview
 
-| 💻 Desktop View | 📱 Mobile View |
-|:--:|:--::--:|
-| ![Desktop Screenshot](./images/desktop-view.png) |  |![Mobile Screenshot](./images/mobile-view-1.png) | ![Mobile Screenshot](./images/mobile-view-2.png) ||
-
+| 💻 Desktop View | 📱 Mobile Views |
+|:---------------:|:---------------:|
+| ![Desktop Screenshot](./images/desktop-view.png) | ![Mobile 1](./images/mobile-view-1.png) ![Mobile 2](./images/mobile-view-2.png) |
 > 📝 *Replace these image paths with your actual file names or GitHub image URLs if needed.*
 
 ---
@@ -84,10 +83,8 @@ Spotify-Clone/
 ![Desktop Screenshot](./images/desktop-view.png)
 
 ### 📱 Mobile Preview
-![Mobile Screenshot](./images/mobile-view-1.png)
-
-![Mobile Screenshot](./images/mobile-view-2.png)
-
+![Mobile Screenshot 1](./images/mobile-view-1.png)
+![Mobile Screenshot 2](./images/mobile-view-2.png)
 ---
 
 ## 🧠 Learning Outcome
