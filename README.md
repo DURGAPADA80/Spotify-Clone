@@ -8,12 +8,13 @@ This project recreates the look and feel of Spotify’s modern music player inte
 ## 🖼️ Project Preview
 
 | 💻 Desktop View |
-|:---------------:|
+|:------------------------------------------------:|
 | ![Desktop Screenshot](./images/desktop-view.png) |
 
 | 📱 Mobile Views |
-|:---------------:|
-| ![Mobile 1](./images/mobile-view-1.png) ![Mobile 2](./images/mobile-view-2.png) |
+|                       View 1                       |                       View 2                       |
+| :------------------------------------------------: | :------------------------------------------------: |
+| ![Mobile 1](./images/mobile-view-1.png)            |       ![Mobile 2](./images/mobile-view-2.png)      |
 ---
 
 ## 🚀 Features
