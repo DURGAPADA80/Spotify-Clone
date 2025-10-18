@@ -78,17 +78,6 @@ Spotify-Clone/
 - 🌓 Add dark/light theme toggle  
 
 ---
-
-## 📸 Screenshots
-
-### 💻 Desktop Preview
-![Desktop Screenshot](./images/desktop-view.png)
-
-### 📱 Mobile Preview
-![Mobile Screenshot 1](./images/mobile-view-1.png)
-![Mobile Screenshot 2](./images/mobile-view-2.png)
----
-
 ## 🧠 Learning Outcome
 
 Through this project, I strengthened my skills in:
